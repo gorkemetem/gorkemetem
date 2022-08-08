@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Etem</h1>
-- 🌱 I’m currently learning .Net
+🌱 I’m currently learning .Net
 
-- 📫 How to reach me **gorkemetem98@gmail.com**
+📫 How to reach me **gorkemetem98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
