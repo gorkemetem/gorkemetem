@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Görkem Etem</h1>
-🌱 I’m currently learning .Net
 
 📫 How to reach me **gorkemetem98@gmail.com**
 
