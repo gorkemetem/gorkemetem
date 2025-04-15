@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Görkem Etem</h1>
+<h1 align="center">Hi 👋, I am a Software Developer with a strong focus on building modern, scalable, and maintainable web applications
+using React on the frontend and .NET technologies on the backend. With hands-on experience across the full
+stack, I’ve contributed to the development of enterprise-level applications by designing reusable UI components,
+implementing robust RESTful APIs, and optimizing database interactions.
+I specialize in JavaScript, C, and SQL. I’m a proactive and team-oriented developer who thrives in collaborative
+environments and continuously seeks to learn and adapt to emerging technologies. My goal is to deliver
+high-quality, performant software that adds real value to users and businesses.
+</h1>
 
 📫 How to reach me **gorkemetem98@gmail.com**
 
